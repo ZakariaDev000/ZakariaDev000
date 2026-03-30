@@ -131,20 +131,28 @@ const zakaria = {
 ## GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZakariaDev000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZakariaDev000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaDev000&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakariaDev000&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="95%"/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-30%2B_repos-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-25%2B_repos-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%2B_repos-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-5%2B_repos-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Repos](https://img.shields.io/badge/Total_Repos-80%2B-6C63FF?style=for-the-badge&logo=github&logoColor=white)
+![Projects](https://img.shields.io/badge/Shipped_Products-30%2B-6C63FF?style=for-the-badge&logo=rocket&logoColor=white)
+![Stack](https://img.shields.io/badge/Full_Stack-Frontend_|_Backend_|_Mobile_|_AI-6C63FF?style=for-the-badge&logo=stackblitz&logoColor=white)
+
 </div>
 
 <br/>
