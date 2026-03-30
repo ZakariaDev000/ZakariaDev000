@@ -72,54 +72,54 @@ const zakaria = {
 <tr>
 <td width="50%">
 
-### Vocrix
-> AI-powered voice platform with transcription (Whisper), text-to-speech (Kokoro), and real-time translation. Microservices architecture with API gateway.
->
-> `TypeScript` `Python` `Laravel` `Next.js` `Docker`
-
-</td>
-<td width="50%">
-
-### QuizForge
-> Automated quiz video generator. Create viral short-form content with AI-generated questions, voiceovers, and animations powered by Remotion.
->
-> `TypeScript` `Next.js` `Remotion` `TurboRepo` `Redis`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 26x99
-> Web3 pixel grid marketplace on Solana. Buy, customize, and merge digital addresses as NFTs with real-time updates.
->
-> `TypeScript` `Next.js` `Laravel` `Solana` `Blockchain`
-
-</td>
-<td width="50%">
-
-### Mansa AI
+### Fumako (Mansa AI)
 > AI assistant platform built for African markets. Smart conversations, task automation, and local context understanding.
 >
 > `TypeScript` `Next.js` `AI` `Claude API`
 
 </td>
+<td width="50%">
+
+### Gestinno
+> SaaS platform for hotel & real estate management in West Africa. Multi-tenant architecture with offline-first PWA and mobile money payments.
+>
+> `Next.js` `Laravel` `PostgreSQL` `Filament` `WebSockets`
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
-### Smart Scraper
-> Intelligent web scraping platform with AI-powered data extraction, chat interface, and automated workflows.
+### DoniDoni
+> Mobile cashback app for Ivory Coast. Users earn cashback from partner merchants with QR scanning, geolocation, and mobile money integration.
 >
-> `TypeScript` `Next.js` `Gemini AI` `TurboRepo`
+> `React Native` `Expo` `Laravel` `PostGIS` `Zustand`
 
 </td>
 <td width="50%">
 
-### n8n MCP
-> Open-source MCP server that lets Claude, Cursor & Windsurf build n8n workflows automatically through natural language.
+### Djassa2Babi
+> Marketplace and content management platform built with a modern Laravel + Vue 3 stack for the Ivorian market.
 >
-> `TypeScript` `MCP` `n8n` `Open Source`
+> `Laravel` `Vue 3` `Tailwind CSS` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Juriste CI
+> AI-powered legal assistant for Ivorian law. SaaS platform with credit system, chat history, and WhatsApp/Telegram bot integration.
+>
+> `Next.js` `Supabase` `Paystack` `n8n` `AI`
+
+</td>
+<td width="50%">
+
+### Melynto
+> Full-stack business management platform with admin dashboard, media library, and modern authentication system.
+>
+> `Next.js` `Laravel` `Filament` `Radix UI` `PostgreSQL`
 
 </td>
 </tr>
