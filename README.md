@@ -7,6 +7,12 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-zakaria--kone.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://zakaria-kone.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ZakariaDev000-181717?style=for-the-badge&logo=github)](https://github.com/ZakariaDev000)
 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zakariadev000)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zakariadev000)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@zakariadev000)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zakariadev000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariadev000)
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=450&lines=SaaS+Builder+%7C+Full-Stack+Dev;Mobile+%7C+AI+%7C+Blockchain;80%2B+projects+shipped+solo;Abidjan+to+the+World+%F0%9F%8C%8D" alt="Typing SVG" />
