@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+SaaS+products+that+solve+real+problems;Full-Stack+%7C+Mobile+%7C+AI+%7C+Blockchain;80%2B+projects+shipped+and+counting;From+Abidjan+to+the+World+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=450&lines=SaaS+Builder+%7C+Full-Stack+Dev;Mobile+%7C+AI+%7C+Blockchain;80%2B+projects+shipped+solo;Abidjan+to+the+World+%F0%9F%8C%8D" alt="Typing SVG" />
 
 </div>
 
